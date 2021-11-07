@@ -3,7 +3,17 @@
 --------------------------------------------------------------------
   * YOLO v4 : https://arxiv.org/abs/2004.10934
   * RARE : https://arxiv.org/abs/1603.03915
-## 큰 도면 내 소형 객체인 철강자재 검출 및 인식
+  * 건설 설계 도면 내 자체 데이터 셋을 구축한 뒤 YOLOv4와 OCR RARE를 통해 객체 검출 및 문자 인식 파이프라인을 설계하여 철강재료를 적산할 수 있는 기술 개발
+  * 플랫폼 및 사용 기술 : Anaconda, Pytorch, OpenCV, Numpy, openpyxl
+  * 자체 Custom 데이터 셋 구축
+    * 객체 검출 셋
+        * train : 761장, val : 26장, test : 80장
+    * 문자 인식 셋
+        * train : 1만장, val : 3천장, test : 4천장
+  * YOLOv4, OCR RARE Network 분석
+  * 데이터 복제 증강 기법 및 공간 집중 모듈을 활용한 큰 도면 내 소형 객체 검출 성능 향상
+  * 객체 검출 및 문자 인식 파이프라인 설계
+
 
 ## 철강자재 검출 및 문자인식 전체 과정
 ![image](https://user-images.githubusercontent.com/61686244/136881085-c6d162b0-5543-4881-a5da-30a1a2e08e91.png)
