@@ -19,29 +19,29 @@
 ![image](https://user-images.githubusercontent.com/61686244/136881085-c6d162b0-5543-4881-a5da-30a1a2e08e91.png)
  
 #### (1) DWG to PNG
-<img src=https://user-images.githubusercontent.com/61686244/140644084-5d54b60f-ade8-44b0-b9b3-9e3cc5544d55.png width="700" height="350"/>
+<img src=https://user-images.githubusercontent.com/61686244/140644084-5d54b60f-ade8-44b0-b9b3-9e3cc5544d55.png width="600" height="350"/>
 
 
 #### (2) Dataset-Detection
-<img src=https://user-images.githubusercontent.com/61686244/140644095-83512172-625c-4eee-aaa4-9686b38754aa.png width="700" height="350"/>
+<img src=https://user-images.githubusercontent.com/61686244/140644095-83512172-625c-4eee-aaa4-9686b38754aa.png width="600" height="350"/>
 
 #### (3) Dataset-Recognition
-<img src=https://user-images.githubusercontent.com/61686244/140644111-cd71cba8-5b9e-46fd-8bb9-fedb88c0b3be.png width="700" height="350"/>
+<img src=https://user-images.githubusercontent.com/61686244/140644111-cd71cba8-5b9e-46fd-8bb9-fedb88c0b3be.png width="600" height="350"/>
 
 #### (4) Train-YOLV4(Detection)
-<img src=https://user-images.githubusercontent.com/61686244/140644127-ed501c70-55d3-4336-b1ff-95ecf1be7e62.png width="700" height="350"/>
+<img src=https://user-images.githubusercontent.com/61686244/140644127-ed501c70-55d3-4336-b1ff-95ecf1be7e62.png width="600" height="350"/>
 
 #### (5) Train-RARE(Recognition)
-<img src=https://user-images.githubusercontent.com/61686244/140644142-fe7c2be5-905b-4391-9a7e-3058d977a17a.png width="700" height="350"/>
+<img src=https://user-images.githubusercontent.com/61686244/140644142-fe7c2be5-905b-4391-9a7e-3058d977a17a.png width="600" height="350"/>
 
 #### Detection Result
-<img src=https://user-images.githubusercontent.com/61686244/140644179-e077828b-6822-48d6-af33-7111086e0280.png width="700" height="350"/>
+<img src=https://user-images.githubusercontent.com/61686244/140644179-e077828b-6822-48d6-af33-7111086e0280.png width="600" height="350"/>
 
 #### Recognition 전 전처리
 <img src=https://user-images.githubusercontent.com/61686244/140644237-aec23afc-1ec7-4cf6-8f67-443b550c28aa.png width="500" height="250"/>
 
 #### Recognition save 
-<img src=https://user-images.githubusercontent.com/61686244/140644254-5a2bf368-bf4d-419f-bd3d-1fb8a6206421.png width="700" height="350"/>
+<img src=https://user-images.githubusercontent.com/61686244/140644254-5a2bf368-bf4d-419f-bd3d-1fb8a6206421.png width="600" height="350"/>
 
 ### Train
 <pre>
