@@ -1,0 +1,5 @@
+classes=1
+train = /home/gpuadmin/2020811010/augmentation_test/data/train.txt
+val = /home/gpuadmin/2020811010/augmentation_test/data/val.txt
+test = /home/gpuadmin/2020811010/augmentation_test/data/test.txt
+names = /home/gpuadmin/2020811010/augmentation_test/data/DADP.names
