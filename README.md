@@ -1,6 +1,5 @@
 # YOLOv4-Based-Small-Object-Detection
 
---------------------------------------------------------------------
   * YOLO v4 : https://arxiv.org/abs/2004.10934
   * RARE : https://arxiv.org/abs/1603.03915
   * 건설 설계 도면 내 자체 데이터 셋을 구축한 뒤 YOLOv4와 OCR RARE를 통해 객체 검출 및 문자 인식 파이프라인을 설계하여 철강재료를 적산할 수 있는 기술 개발
