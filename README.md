@@ -7,3 +7,17 @@
 ## 철강자재 검출 및 문자인식 전체 과정
 ![image](https://user-images.githubusercontent.com/61686244/136881085-c6d162b0-5543-4881-a5da-30a1a2e08e91.png)
 
+### Train
+<pre>
+<code>
+$ python train_oversampling.py --single-cls --device '원하는 gpu' (복제augmentation추가원하면 입력->"--srmix --srimx-alpha '원하는횟수' ") 
+</code>
+</pre>
+
+### Test
+<pre>
+<code>
+$ python detect_edit.py  --device '원하는 gpu' --weights '원하는 학습 pt파일' --save-txt
+</code>
+</pre>
+
