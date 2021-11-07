@@ -28,7 +28,9 @@
 <img src=https://user-images.githubusercontent.com/61686244/140644111-cd71cba8-5b9e-46fd-8bb9-fedb88c0b3be.png width="600" height="350"/>
 
 #### (4) Train-YOLV4(Detection)
-<img src=https://user-images.githubusercontent.com/61686244/140644127-ed501c70-55d3-4336-b1ff-95ecf1be7e62.png width="600" height="350"/>
+
+
+<img src=https://user-images.githubusercontent.com/61686244/140644564-8a0b8e71-82c1-4cc1-82b0-267dbf084091.png width="600" height="350"/>
 
 #### (5) Train-RARE(Recognition)
 <img src=https://user-images.githubusercontent.com/61686244/140644142-fe7c2be5-905b-4391-9a7e-3058d977a17a.png width="600" height="350"/>
