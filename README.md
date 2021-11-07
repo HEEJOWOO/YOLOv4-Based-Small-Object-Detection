@@ -33,7 +33,8 @@
 <img src=https://user-images.githubusercontent.com/61686244/140644564-8a0b8e71-82c1-4cc1-82b0-267dbf084091.png width="600" height="350"/>
 
 #### (5) Train-RARE(Recognition)
-<img src=https://user-images.githubusercontent.com/61686244/140644142-fe7c2be5-905b-4391-9a7e-3058d977a17a.png width="600" height="350"/>
+
+<img src=https://user-images.githubusercontent.com/61686244/140644576-83318270-68b7-4f2e-87a6-8d9dfe99eddd.png width="600" height="350"/>
 
 #### Detection Result
 <img src=https://user-images.githubusercontent.com/61686244/140644179-e077828b-6822-48d6-af33-7111086e0280.png width="600" height="350"/>
