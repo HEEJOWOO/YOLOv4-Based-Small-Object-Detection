@@ -22,13 +22,13 @@
 
 
 #### (2) Dataset-Detection
-<img src=https://user-images.githubusercontent.com/61686244/140644095-83512172-625c-4eee-aaa4-9686b38754aa.png width="600" height="350"/>
+
+<img src=https://user-images.githubusercontent.com/61686244/140699539-c66ac54b-f864-4f0a-8b04-6b19a4daabc3.png width="600" height="350"/>
 
 #### (3) Dataset-Recognition
 <img src=https://user-images.githubusercontent.com/61686244/140644111-cd71cba8-5b9e-46fd-8bb9-fedb88c0b3be.png width="600" height="350"/>
 
 #### (4) Train-YOLV4(Detection)
-
 
 <img src=https://user-images.githubusercontent.com/61686244/140644564-8a0b8e71-82c1-4cc1-82b0-267dbf084091.png width="600" height="350"/>
 
@@ -37,13 +37,17 @@
 <img src=https://user-images.githubusercontent.com/61686244/140644576-83318270-68b7-4f2e-87a6-8d9dfe99eddd.png width="600" height="350"/>
 
 #### Detection Result
-<img src=https://user-images.githubusercontent.com/61686244/140644179-e077828b-6822-48d6-af33-7111086e0280.png width="600" height="350"/>
+
+
+<img src=https://user-images.githubusercontent.com/61686244/140699624-245d2041-9b11-4230-b42a-5ed6e7c164f0.png width="600" height="350"/>
 
 #### Recognition 전 전처리
 <img src=https://user-images.githubusercontent.com/61686244/140644237-aec23afc-1ec7-4cf6-8f67-443b550c28aa.png width="500" height="250"/>
 
 #### Recognition save 
-<img src=https://user-images.githubusercontent.com/61686244/140644254-5a2bf368-bf4d-419f-bd3d-1fb8a6206421.png width="600" height="350"/>
+
+
+<img src=https://user-images.githubusercontent.com/61686244/140699737-fc51ce5a-f7bf-4a52-9eed-5ce25b6efc36.png/>
 
 ### Train
 <pre>
