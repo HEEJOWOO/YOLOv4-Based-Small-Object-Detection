@@ -47,7 +47,7 @@
 #### Recognition save 
 
 
-<img src=https://user-images.githubusercontent.com/61686244/140699737-fc51ce5a-f7bf-4a52-9eed-5ce25b6efc36.png/>
+<img src=https://user-images.githubusercontent.com/61686244/140699737-fc51ce5a-f7bf-4a52-9eed-5ce25b6efc36.png width="600" height="350"/>
 
 ### Train
 <pre>
