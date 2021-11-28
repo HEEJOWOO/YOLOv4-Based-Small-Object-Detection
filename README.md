@@ -28,7 +28,12 @@
 <img src=https://user-images.githubusercontent.com/61686244/140699539-c66ac54b-f864-4f0a-8b04-6b19a4daabc3.png width="600" height="350"/>
 
 #### (3) Dataset-Recognition
-<img src=https://user-images.githubusercontent.com/61686244/140644111-cd71cba8-5b9e-46fd-8bb9-fedb88c0b3be.png width="600" height="350"/>
+![image](https://user-images.githubusercontent.com/61686244/143766195-4634ac46-366c-4d47-b5bd-019ff00c10f6.png)
+![image](https://user-images.githubusercontent.com/61686244/143766198-d6100669-8631-4cce-93fe-39a5f4b98e60.png)
+
+* 문자 인식 셋(train : 1만장, val : 3천장, test : 4천장)
+
+
 
 #### (4) Train-YOLV4(Detection)
 
