@@ -28,7 +28,7 @@
 ![image](https://user-images.githubusercontent.com/61686244/143766234-5f08cb38-18ea-4f51-beae-11bcc9aa167f.png)
 
 
-* 객체 검출 셋(train : 791장, val : 26장, test : 80장)![image](https://user-images.githubusercontent.com/61686244/143766219-a9895d66-cfd1-42bf-b8b1-a4bf897ca0f4.png)
+* 객체 검출 셋(train : 791장, val : 26장, test : 80장)![image]
 
 
 #### (3) Dataset-Recognition
@@ -40,6 +40,11 @@
 
 
 #### (4) Train-YOLV4(Detection)
+
+* Labelimg
+
+![image](https://user-images.githubusercontent.com/61686244/143766264-5307513d-5179-4185-9431-6c7b242973e3.png)
+
 
 <img src=https://user-images.githubusercontent.com/61686244/140644564-8a0b8e71-82c1-4cc1-82b0-267dbf084091.png width="600" height="350"/>
 
