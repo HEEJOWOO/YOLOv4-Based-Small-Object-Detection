@@ -28,13 +28,13 @@
 
 * Labelimg
 
+ 1)
 ![image](https://user-images.githubusercontent.com/61686244/143766264-5307513d-5179-4185-9431-6c7b242973e3.png)
 
+ 2)
 ![image](https://user-images.githubusercontent.com/61686244/143766291-82a12215-a45a-48e8-9ae3-d8009d60519f.png)
 
-
-
-
+ 3)
 ![image](https://user-images.githubusercontent.com/61686244/143766234-5f08cb38-18ea-4f51-beae-11bcc9aa167f.png)
 
 
