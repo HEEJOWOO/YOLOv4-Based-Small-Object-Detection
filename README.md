@@ -34,7 +34,7 @@
 
 <img src=https://user-images.githubusercontent.com/61686244/140644564-8a0b8e71-82c1-4cc1-82b0-267dbf084091.png width="600" height="350"/>
 
-#### (5) Train-RARE(Recognition)
+#### (5) Train-STARNet(Recognition)
 
 <img src=https://user-images.githubusercontent.com/61686244/140644576-83318270-68b7-4f2e-87a6-8d9dfe99eddd.png width="600" height="350"/>
 
