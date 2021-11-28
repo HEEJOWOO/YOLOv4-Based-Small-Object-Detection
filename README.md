@@ -25,7 +25,11 @@
  
 #### (2) Dataset-Detection
 
-<img src=https://user-images.githubusercontent.com/61686244/140699539-c66ac54b-f864-4f0a-8b04-6b19a4daabc3.png width="600" height="350"/>
+![image](https://user-images.githubusercontent.com/61686244/143766234-5f08cb38-18ea-4f51-beae-11bcc9aa167f.png)
+
+
+* 객체 검출 셋(train : 791장, val : 26장, test : 80장)![image](https://user-images.githubusercontent.com/61686244/143766219-a9895d66-cfd1-42bf-b8b1-a4bf897ca0f4.png)
+
 
 #### (3) Dataset-Recognition
 ![image](https://user-images.githubusercontent.com/61686244/143766195-4634ac46-366c-4d47-b5bd-019ff00c10f6.png)
