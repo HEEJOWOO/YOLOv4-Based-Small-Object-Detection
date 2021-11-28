@@ -25,6 +25,15 @@
  
 #### (2) Dataset-Detection
 
+* Labelimg
+
+![image](https://user-images.githubusercontent.com/61686244/143766264-5307513d-5179-4185-9431-6c7b242973e3.png)
+
+![image](https://user-images.githubusercontent.com/61686244/143766291-82a12215-a45a-48e8-9ae3-d8009d60519f.png)
+
+
+
+
 ![image](https://user-images.githubusercontent.com/61686244/143766234-5f08cb38-18ea-4f51-beae-11bcc9aa167f.png)
 
 
@@ -41,9 +50,6 @@
 
 #### (4) Train-YOLV4(Detection)
 
-* Labelimg
-
-![image](https://user-images.githubusercontent.com/61686244/143766264-5307513d-5179-4185-9431-6c7b242973e3.png)
 
 
 <img src=https://user-images.githubusercontent.com/61686244/140644564-8a0b8e71-82c1-4cc1-82b0-267dbf084091.png width="600" height="350"/>
