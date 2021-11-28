@@ -65,6 +65,9 @@
 <img src=https://user-images.githubusercontent.com/61686244/140699624-245d2041-9b11-4230-b42a-5ed6e7c164f0.png width="600" height="350"/>
 
 #### Recognition 전 전처리
+
+* 검정 pixel 삭제 후 경량 초해상도 네트워크를 이용하여 2
+
 ![전처리](https://user-images.githubusercontent.com/61686244/143766554-df77a8c7-da20-4274-b81b-0b114f1f6b6b.png)
 
 #### Recognition save 
