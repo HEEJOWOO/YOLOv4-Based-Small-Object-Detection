@@ -57,18 +57,18 @@
 
 <img src=https://user-images.githubusercontent.com/61686244/140644576-83318270-68b7-4f2e-87a6-8d9dfe99eddd.png width="600" height="350"/>
 
-### Detection Result
+### (6) Detection Result
 
 
 <img src=https://user-images.githubusercontent.com/61686244/140699624-245d2041-9b11-4230-b42a-5ed6e7c164f0.png width="600" height="350"/>
 
-### (6) Recognition 전 전처리
+### (7) Recognition 전 전처리
 
 * 검정 pixel 삭제 후 경량 초해상도 네트워크를 이용하여 2배 확대
 
 ![전처리](https://user-images.githubusercontent.com/61686244/143766636-04334ec0-567f-4580-8fa5-dcd6153246ce.png)
 
-### (7) Recognition save 
+### (8) Recognition save 
 
 
 <img src=https://user-images.githubusercontent.com/61686244/140699737-fc51ce5a-f7bf-4a52-9eed-5ce25b6efc36.png width="600" height="350"/>
