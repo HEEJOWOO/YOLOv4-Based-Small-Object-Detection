@@ -66,7 +66,7 @@
 
 #### Recognition 전 전처리
 
-* 검정 pixel 삭제 후 경량 초해상도 네트워크를 이용하여 2
+* 검정 pixel 삭제 후 경량 초해상도 네트워크를 이용하여 2배 확대
 
 ![전처리](https://user-images.githubusercontent.com/61686244/143766554-df77a8c7-da20-4274-b81b-0b114f1f6b6b.png)
 
