@@ -38,14 +38,12 @@
 ![image](https://user-images.githubusercontent.com/61686244/143766234-5f08cb38-18ea-4f51-beae-11bcc9aa167f.png)
 
 
-* 객체 검출 셋(train : 791장, val : 26장, test : 80장)![image]
-
 
 #### (3) Dataset-Recognition
 ![image](https://user-images.githubusercontent.com/61686244/143766195-4634ac46-366c-4d47-b5bd-019ff00c10f6.png)
 ![image](https://user-images.githubusercontent.com/61686244/143766198-d6100669-8631-4cce-93fe-39a5f4b98e60.png)
 
-* 문자 인식 셋(train : 1만장, val : 3천장, test : 4천장)
+
 
 
 
