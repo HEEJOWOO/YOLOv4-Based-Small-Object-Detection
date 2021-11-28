@@ -65,11 +65,7 @@
 <img src=https://user-images.githubusercontent.com/61686244/140699624-245d2041-9b11-4230-b42a-5ed6e7c164f0.png width="600" height="350"/>
 
 #### Recognition 전 전처리
-
-
-![전처리](https://user-images.githubusercontent.com/61686244/143766524-e83f77cb-b38f-4879-b13a-d40b254468c2.png)
-
-
+![전체 과정 설명](https://user-images.githubusercontent.com/61686244/143766402-556fdbdb-91c0-4daf-96f4-fe6d04164018.png)
 
 #### Recognition save 
 
