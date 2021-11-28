@@ -16,7 +16,8 @@
  
  
 ## 철강자재 검출 및 문자인식 전체 과정
-![image](https://user-images.githubusercontent.com/61686244/136881085-c6d162b0-5543-4881-a5da-30a1a2e08e91.png)
+![전체 과정 설명](https://user-images.githubusercontent.com/61686244/143766402-556fdbdb-91c0-4daf-96f4-fe6d04164018.png)
+
  
 #### (1) DWG to PNG
 <img src=https://user-images.githubusercontent.com/61686244/140644084-5d54b60f-ade8-44b0-b9b3-9e3cc5544d55.png width="600" height="350"/>
