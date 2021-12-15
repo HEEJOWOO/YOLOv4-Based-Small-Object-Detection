@@ -14,7 +14,7 @@
   * 객체 검출 및 문자 인식 파이프라인 설계
 
    
- 
+   
 ## 철강자재 검출 및 문자인식 전체 과정
 ![전체 과정 설명](https://user-images.githubusercontent.com/61686244/143766402-556fdbdb-91c0-4daf-96f4-fe6d04164018.png)
 
