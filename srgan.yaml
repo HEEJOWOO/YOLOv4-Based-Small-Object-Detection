@@ -1,0 +1,44 @@
+# extend the base configurations
+base: ["base/base.yaml"]
+inference:
+  emulator_batch_size: 1
+evaluation:
+  data_set: "models_files/div2k/2020-12-06/hailo_validation_set_div2k_super_resolution.tfrecord"
+  validation_data_set: "models_files/div2k/2020-12-06/hailo_validation_set_div2k_super_resolution.tfrecord"
+  dataset_name: "div2k"
+preprocessing:
+  network_type: "super_resolution"
+  meta_arch: "srgan"
+quantization:
+  calib_set: ["models_files/div2k/2020-12-06/hailo_calib_set_div2k_super_resolution.tfrecord"]
+postprocessing:
+  meta_arch: "srgan"
+info:
+  source: "https://github.com/tensorlayer/srgan"
+network:
+  network_name: "srgan"
+allocation:
+  required_fps: 5
+paths:
+  alls_script: srgan.alls
+  network_path:
+    [
+      "models_files/srgan/2021-03-01/srgan.ckpt.meta",
+      "models_files/srgan/2021-03-01/srgan.ckpt.index",
+      "models_files/srgan/2021-03-01/srgan.ckpt.data-00000-of-00001",
+    ]
+parser:
+  nodes: ["input_image", ["SRGAN_g/out/Tanh"]]
+  normalization_params:
+    normalize_in_net: true
+    mean_list: [127.5, 127.5, 127.5]
+    std_list: [127.5, 127.5, 127.5]
+
+# internal info
+adk_validation:
+  adk_tests_information:
+    quantization_test:
+      expected_native: 24.37
+      degradation_threshold: 0.3
+      degradation_threshold_partial: 0.28
+  sdk_network_name: "srgan"

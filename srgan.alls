@@ -1,0 +1,8 @@
+# normalization commands
+norm_layer1 = normalization([127.5, 127.5, 127.5], [127.5, 127.5, 127.5])
+
+ddr1 = ddr(conv1,conv34)
+
+# model_optimization_config commands
+model_optimization_config(calibration, batch_size=1, calibset_size=32)
+
